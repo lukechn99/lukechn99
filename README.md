@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lukechn99
-- 👀 I’m interested in
-- 🌱 I’m currently learning app development with Flutter, building resilient systems with AWS, sharpening my software design skills, and different tech stacks for full stack web development. 
-- 💞️ I’m looking to collaborate on any interesting hackathons if you want a teammate!
+- 👀 I’m interested in the design of software systems, startup ideas, and reviewing my old csci class notes.
+- 🌱 I’m currently working on growing software engineering skills at Amazon. 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/chen-luke/) or through my email at lukechn99@gmail.com
 
 <!---
