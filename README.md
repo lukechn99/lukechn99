@@ -3,12 +3,13 @@
 - 🌱 I’m currently working on growing software engineering skills at Amazon. 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/chen-luke/) or through my email at lukechn99@gmail.com
 
+<!---
 [![My Stats](https://github-readme-stats.vercel.app/api?username=lukechn99&show_icons=true&hide_border=true&&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Languages
 
 [![on Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lukechn99&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 
 <!---
